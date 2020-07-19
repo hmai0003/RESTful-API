@@ -24,7 +24,7 @@ import javax.xml.bind.annotation.XmlRootElement;
 
 /**
  *
- * @author Harsh
+ * @author Harsh Mairh
  */
 @Entity
 @Table(name = "CREDENTIALTABLE")
